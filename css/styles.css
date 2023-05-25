@@ -1,0 +1,47 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-color: orange;
+
+}
+
+#container{
+    width: 900px;
+    margin: 0 auto;
+}
+
+.box1, .box2, .box3{
+    width: 260px;
+    float: left;
+    margin: 10px;
+    padding: 8px;
+    opacity: 1.5;
+    text-align: left;
+    color: whitesmoke;
+    font-family: helvetica;
+    box-shadow: 50px;
+}
+.box1 {
+    background-color: blue;
+    
+}
+.box2 {
+    background-color: blue;
+    
+}.box3 {
+    background-color: blue;
+    
+}
+.img-rabbit {
+    height: 174px;
+    width: 50px;
+}
+.header {
+    font-family: Arial, Helvetica, sans-serif;
+    text-align:center;
+}
+.center {
+    text-align: center;
+    font-size: 25px;
+    color:azure;
+}
